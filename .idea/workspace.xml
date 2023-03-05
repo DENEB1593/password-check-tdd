@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03fb03f3-30e3-4f05-8889-9e4281dd63a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Mb2NjwFu4n6w4M9WiST45daEF7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "settings.editor.selected.configurable": "build.tools"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="io.dev.deneb" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PasswordCheckTests">
+    <configuration name="PasswordCheckTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="password-check-tdd.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.dev.deneb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.dev.deneb" />
+      <option name="MAIN_CLASS_NAME" value="io.dev.deneb.PasswordCheckTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordCheckTests.compliedAllRules" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="password-check-tdd.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.dev.deneb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.dev.deneb" />
+      <option name="MAIN_CLASS_NAME" value="io.dev.deneb.PasswordCheckTests" />
+      <option name="METHOD_NAME" value="compliedAllRules" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordCheckTests.length8Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="password-check-tdd.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.dev.deneb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.dev.deneb" />
+      <option name="MAIN_CLASS_NAME" value="io.dev.deneb.PasswordCheckTests" />
+      <option name="METHOD_NAME" value="length8Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordCheckTests.lengthUnder8Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="password-check-tdd.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.dev.deneb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.dev.deneb" />
+      <option name="MAIN_CLASS_NAME" value="io.dev.deneb.PasswordCheckTests" />
+      <option name="METHOD_NAME" value="lengthUnder8Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordCheckTests.onlyContainUppercase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="password-check-tdd.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.dev.deneb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.dev.deneb" />
+      <option name="MAIN_CLASS_NAME" value="io.dev.deneb.PasswordCheckTests" />
+      <option name="METHOD_NAME" value="onlyContainUppercase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PasswordCheckTests" />
+        <item itemvalue="JUnit.PasswordCheckTests.lengthUnder8Test" />
+        <item itemvalue="JUnit.PasswordCheckTests.onlyContainUppercase" />
+        <item itemvalue="JUnit.PasswordCheckTests.compliedAllRules" />
+        <item itemvalue="JUnit.PasswordCheckTests.length8Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03fb03f3-30e3-4f05-8889-9e4281dd63a7" name="Changes" comment="" />
+      <created>1678021923886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678021923886</updated>
+      <workItem from="1678021925538" duration="294000" />
+      <workItem from="1678022260462" duration="4109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/io/dev/deneb/PasswordPolicy.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
